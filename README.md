@@ -8,12 +8,15 @@ Features : <i>HOG Inria, HOG cascade, SVM(Support Vector Machine), running avera
 
 ![original](https://github.com/uareuni/OpenCV_HumanDetector_cpp/blob/master/1.original.png)
 
+
+
+<hr />
+![morphology](https://github.com/uareuni/OpenCV_HumanDetector_cpp/blob/master/3.morph.png)
+
 <hr />
 
 ![abdiff](https://github.com/uareuni/OpenCV_HumanDetector_cpp/blob/master/2.abdiff.png)
 
-<hr />
-![morphology](https://github.com/uareuni/OpenCV_HumanDetector_cpp/blob/master/3.morph.png)
 
 <hr />
 ![resulrt](https://github.com/uareuni/OpenCV_HumanDetector_cpp/blob/master/4.result.png)
